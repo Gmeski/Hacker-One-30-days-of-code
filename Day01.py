@@ -19,6 +19,6 @@ m = str(input())
 # Print the sum of the double variables on a new line.
 print(k + i)
 print(p + d)
-print(s +  m)
+print(s + m)
 # Concatenate and print the String variables on a new line
 # The 's' variable above should be printed first.
